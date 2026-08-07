@@ -1,32 +1,32 @@
 # theme: light
-[colors.primary]
-background = '#ededed'
-foreground = '#1c2410'
+[colors.bright]
+black = '#42434e'
+blue = '#5f6370'
+cyan = '#454752'
+green = '#2e3038'
+magenta = '#25262d'
+red = '#525666'
+white = '#282930'
+yellow = '#50535e'
 
 [colors.cursor]
-cursor = '#082108'
-text   = '#ededed'
-
-[colors.selection]
-background = '#3c444d'
-text       = '#ededed'
+cursor = '#565760'
+text = '#282930'
 
 [colors.normal]
-black   = '#383a42'
-red     = '#a52a2a'
-green   = '#556b2f'
-yellow  = '#5c3e00'
-blue    = '#4682b4'
-magenta = '#a626a4'
-cyan    = '#0997b3'
-white   = '#6b8e23'
+black = '#d4d5dc'
+blue = '#5f6370'
+cyan = '#454752'
+green = '#2e3038'
+magenta = '#25262d'
+red = '#525666'
+white = '#282930'
+yellow = '#50535e'
 
-[colors.bright]
-black   = '#4f525d'
-red     = '#df6c75'
-green   = '#2e8b57'
-yellow  = '#808000'
-blue    = '#008080'
-magenta = '#c577dd'
-cyan    = '#008080'
-white   = '#7b8d9e'
+[colors.primary]
+background = '#edeef2'
+foreground = '#282930'
+
+[colors.selection]
+background = '#817c9c'
+text = '#282930'

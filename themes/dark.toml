@@ -1,28 +1,32 @@
 # theme: dark
-[colors.primary]
-background = '#202020'
-foreground = '#adadad'
+[colors.bright]
+black = '#575861'
+blue = '#5c87a4'
+cyan = '#a27e57'
+green = '#648f68'
+magenta = '#829fa7'
+red = '#e8b246'
+white = '#868690'
+yellow = '#da674b'
 
 [colors.cursor]
-cursor = '#ffffff'
-text   = '#202020'
+cursor = '#43444d'
+text = '#868690'
 
 [colors.normal]
-black   = '#000000'
-red     = '#fa5355'
-green   = '#126e00'
-yellow  = '#c2c300'
-blue    = '#4581eb'
-magenta = '#fa54ff'
-cyan    = '#33c2c1'
-white   = '#adadad'
+black = '#131317'
+blue = '#5c87a4'
+cyan = '#a27e57'
+green = '#648f68'
+magenta = '#e8b246'
+red = '#829fa7'
+white = '#868690'
+yellow = '#da674b'
 
-[colors.bright]
-black   = '#555555'
-red     = '#fb7172'
-green   = '#67ff4f'
-yellow  = '#ffff00'
-blue    = '#6d9df1'
-magenta = '#fb82ff'
-cyan    = '#60d3d1'
-white   = '#eeeeee'
+[colors.primary]
+background = '#0f1014'
+foreground = '#868690'
+
+[colors.selection]
+background = '#817c9c'
+text = '#acacb6'
