@@ -19,7 +19,7 @@ blur = true
 padding.x = 0
 padding.y = 0 
 
-startup_mode = "Windowed"
+startup_mode = "Maximized"
 title = "Alacritty"
 dynamic_title = false
 
