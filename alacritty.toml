@@ -50,4 +50,5 @@ bindings = [
   { key = "C", mods = "Control|Shift", action = "Copy" },
   { key = "N", mods = "Control|Shift", action = "CreateNewWindow" },
   { key = "T", mods = "Control|Shift", command = { program = "powershell", args = ["-NoProfile", "-WindowStyle", "Hidden", "-File", "C:\\Users\\jathavaan.shankarr\\AppData\\Roaming\\alacritty\\toggle-theme.ps1"] } },
+  { key = "Return", mods = "Shift", chars = "\u001B\r" },
 ]
