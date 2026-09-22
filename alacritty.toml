@@ -6,9 +6,11 @@ live_config_reload = true
 
 [env]
 TERM = "xterm-256color"
+PSMUX_AUTOSTART = "1"
 
-# [terminal.shell]
-# program = "tmux"
+[terminal.shell]
+program = "pwsh"
+args = ["-NoLogo"]
 
 [window]
 opacity = 1
